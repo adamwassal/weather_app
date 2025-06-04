@@ -2,7 +2,7 @@
 
 A beautifully designed weather application built using **Flutter**.
 
-![Main Screen](https://github.com/user-attachments/assets/48226518-5198-4bb0-90bb-8d35f0ab94b6)
+![Main Screen](https://github.com/user-attachments/assets/76311a64-e8c8-493e-ab2c-7fb7f2cf7d11)
 
 ---
 
