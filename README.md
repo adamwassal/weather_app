@@ -12,6 +12,8 @@ Easily customize the app settings to your preference.
 
 ![Settings Screen](https://github.com/user-attachments/assets/9f858630-fb38-4d88-b41c-2875ae7c9b26)
 
+**the place in egypt for now**
+
 ---
 
 ## ✨ Features
